@@ -1,2 +1,6 @@
 # AI_Lab_Codes
-This repository contains my lab files for Artificial Intelligence (AI) projects. The files include source code, data sets, and output files that were created as part of my coursework. The lab files include the use of popular AI libraries and frameworks such as TensorFlow, Keras, and PyTorch.
+My lab files for Artificial Intelligence (AI) projects are stored in this repository. The files were produced as part of my coursework and comprise source code, data sets, and output files.
+
+Each lab file has a brief summary of the project's goals and functionality and corresponds to a particular AI topic or application. The files are arranged according to lab sessions and include information on a variety of subjects, such as robotics, computer vision, natural language processing, and machine learning.
+
+The lab files also contain documentation that gives a rundown of the AI ideas applied and the outcomes produced. Anyone with an interest in artificial intelligence (AI) or who wants to increase their knowledge and expertise in this field can use this documentation as a reference manual.
